@@ -1,4 +1,5 @@
 //linear search
+// time complexity O(N)
 
 import java.util.Scanner;
 class linear_search
