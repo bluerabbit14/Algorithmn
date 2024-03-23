@@ -1,5 +1,6 @@
 //binary search
 //note: array must be sorted
+// time complexity O(log N)
 
 import java.util.Scanner;
 class binary_search
